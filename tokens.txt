@@ -1,0 +1,16 @@
+Token Table:
+Invalid Tokens: 1
+KEYWORD              life       1     
+LP_BRACKET           (          1     
+INTEGER_LITERAL      2          1     
+PUNCTUATOR           ,          1     
+IDENTIFIER           age        1     
+RP_BRACKET           )          1     
+PUNCTUATOR           ;          1     
+ARITHMETIC_OP        /          2     
+IDENTIFIER           comment    2     
+COMMENT              //comment  3     
+INVALID              /* comm
+abdul
+
+ 4     
